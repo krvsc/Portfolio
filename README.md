@@ -1,2 +1,1 @@
-# Portfolio
-This repo contains my portfolio.
+### It contains all the files for my Portfile. I have used hugo themes.
